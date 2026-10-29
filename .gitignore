@@ -1,0 +1,19 @@
+# Node
+**/node_modules/
+**/dist/
+**/.angular/
+npm-debug.log*
+
+# Java & Maven
+**/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/.mvn/wrapper/maven-wrapper.jar
+
+# IDE & Editor
+**/.idea/
+**/.vscode/
+*.iml
+*.iws
+*.ipr
+**/.DS_Store
+Thumbs.db
